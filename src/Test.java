@@ -7,3 +7,7 @@ public class Test {
     public void dispaly()
     {}
 }
+public void message()
+{
+    System.out.println("Hello World");
+}
